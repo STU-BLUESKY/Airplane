@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BAT Pin=J1-1
+Removed Pin From Net: NetName=BAT Pin=S1-1
+Removed Pin From Net: NetName=BAT Pin=S1-6
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=S1-4
+Added Net: Name=NetJ1_1
+Added Room: Name=UAV2.0_DOC

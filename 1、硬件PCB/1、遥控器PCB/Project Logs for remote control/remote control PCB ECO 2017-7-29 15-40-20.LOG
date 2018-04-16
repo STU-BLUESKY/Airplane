@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=BELL Pin=U2-33
+Added Pin To Net: NetName=BELL Pin=U2-45
+Added Room: Name=remote control

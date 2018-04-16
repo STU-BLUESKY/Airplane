@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=BAT+ Pin=S1-2
+Added Pin To Net: NetName=BAT+ Pin=S1-3
+Added Room: Name=remote control

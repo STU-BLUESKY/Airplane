@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND Pin=GND-1
+Removed Pin From Net: NetName=+3.3V Pin=GND-2
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=+3.3V Pin=J3-2
+Change Component Designator: OldDesignator=+ NewDesignator=J1
+Change Component Designator: OldDesignator=8050 NewDesignator=Q1
+Change Component Designator: OldDesignator=GND NewDesignator=J2
+Added Pin To Net: NetName=+3.3V Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=+3.3V Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Room: Name=remote control

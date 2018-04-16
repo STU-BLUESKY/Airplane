@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=KEY_LEFT Pin=control_L1-9
+Removed Pin From Net: NetName=KEY_RIGHT Pin=control_R1-9
+Added Pin To Net: NetName=KEY_LEFT Pin=control_L1-10
+Added Pin To Net: NetName=KEY_RIGHT Pin=control_R1-10
+Added Pin To Net: NetName=KEY_LEFT Pin=R8-1
+Added Pin To Net: NetName=KEY_RIGHT Pin=R13-1

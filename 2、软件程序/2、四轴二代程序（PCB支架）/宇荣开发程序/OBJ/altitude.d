@@ -1,0 +1,41 @@
+..\obj\altitude.o: ..\HARDWARE\MS5611\Altitude.c
+..\obj\altitude.o: ..\HARDWARE\MS5611\Altitude.h
+..\obj\altitude.o: ..\HARDWARE\MS5611\MS5611.h
+..\obj\altitude.o: ..\HARDWARE\IIC\IIC.h
+..\obj\altitude.o: ..\USER\stm32f10x_conf.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_adc.h
+..\obj\altitude.o: ..\USER\stm32f10x.h
+..\obj\altitude.o: ..\CORE\core_cm3.h
+..\obj\altitude.o: D:\Program Files (x86)\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\altitude.o: ..\USER\system_stm32f10x.h
+..\obj\altitude.o: ..\USER\stm32f10x_conf.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_bkp.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_can.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_cec.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_crc.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_dac.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_dma.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_exti.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_flash.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_fsmc.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_i2c.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_iwdg.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_pwr.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_rtc.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_sdio.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_spi.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\stm32f10x_wwdg.h
+..\obj\altitude.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\altitude.o: ..\SYSTEM\sys\sys.h
+..\obj\altitude.o: ..\SYSTEM\delay\delay.h
+..\obj\altitude.o: ..\USER\stm32f10x_it.h
+..\obj\altitude.o: ..\HARDWARE\IMU\imu.h
+..\obj\altitude.o: D:\Program Files (x86)\keil\ARM\ARMCC\Bin\..\include\math.h
+..\obj\altitude.o: ..\HARDWARE\MPU6050\mpu6050.h
+..\obj\altitude.o: ..\SYSTEM\usart\usart.h
+..\obj\altitude.o: D:\Program Files (x86)\keil\ARM\ARMCC\Bin\..\include\stdio.h

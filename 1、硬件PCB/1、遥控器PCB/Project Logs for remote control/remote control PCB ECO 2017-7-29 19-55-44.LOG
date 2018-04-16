@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=KEY_RIGHT Pin=U2-43
+Removed Pin From Net: NetName=ADC ROLL Pin=U2-46
+Added Pin To Net: NetName=ADC ROLL Pin=U2-43
+Added Pin To Net: NetName=KEY_RIGHT Pin=U2-46
+Added Room: Name=remote control

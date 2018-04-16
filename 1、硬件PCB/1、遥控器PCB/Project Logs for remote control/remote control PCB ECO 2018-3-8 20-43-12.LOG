@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=GND-2
+Removed Pin From Net: NetName=RXD Pin=GND-3
+Removed Pin From Net: NetName=TXD Pin=GND-4
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=KEY4 Pin=U2-2
+Removed Pin From Net: NetName=KEY2 Pin=U2-4
+Removed Pin From Net: NetName=KEY1 Pin=U2-11
+Removed Pin From Net: NetName=BELL Pin=U2-12
+Removed Pin From Net: NetName=ADC PITCH Pin=U2-41
+Removed Pin From Net: NetName=ADC ROLL Pin=U2-42
+Removed Member From Class: ClassName=remote control Member=R15
+Change Component Designator: OldDesignator=+ NewDesignator=J1
+Change Component Designator: OldDesignator=8050 NewDesignator=Q1
+Change Component Designator: OldDesignator=GND NewDesignator=J2
+Added Pin To Net: NetName=GND Pin=F1-2
+Added Pin To Net: NetName=TXD Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=KEY2 Pin=U2-2
+Added Pin To Net: NetName=KEY4 Pin=U2-4
+Added Pin To Net: NetName=ADC PITCH Pin=U2-11
+Added Pin To Net: NetName=ADC ROLL Pin=U2-12
+Added Pin To Net: NetName=KEY1 Pin=U2-41
+Added Pin To Net: NetName=BELL Pin=U2-42
+Added Room: Name=remote control

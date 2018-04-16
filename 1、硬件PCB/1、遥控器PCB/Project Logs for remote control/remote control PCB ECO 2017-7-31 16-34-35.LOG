@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=S1-1
+Removed Pin From Net: NetName=BAT+ Pin=S1-3
+Removed Member From Class: ClassName=remote control Member=S1
+Added Component: Designator=S?(KEY_DIP-2_5)
+Added Pin To Net: NetName=NetJ1_2 Pin=S?-2
+Added Pin To Net: NetName=BAT+ Pin=S?-3
+Added Member To Class: ClassName=remote control Member=Component S? SW-3PIN
+Added Room: Name=remote control

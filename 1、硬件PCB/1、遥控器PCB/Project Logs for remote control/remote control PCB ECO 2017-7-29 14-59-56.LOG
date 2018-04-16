@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=TXD Pin=J2-2
+Removed Pin From Net: NetName=+3.3V Pin=J2-4
+Added Pin To Net: NetName=+3.3V Pin=J2-2
+Added Pin To Net: NetName=TXD Pin=J2-4
+Added Room: Name=remote control

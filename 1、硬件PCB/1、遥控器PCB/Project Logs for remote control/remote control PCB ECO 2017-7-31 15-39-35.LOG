@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=control_L1-8
+Removed Pin From Net: NetName=KEY_LEFT Pin=control_L1-10
+Removed Pin From Net: NetName=GND Pin=control_R1-8
+Removed Pin From Net: NetName=KEY_RIGHT Pin=control_R1-10
+Removed Pin From Net: NetName=KEY_LEFT Pin=R8-1
+Removed Pin From Net: NetName=KEY_RIGHT Pin=R13-1
+Change Component Designator: OldDesignator=8050 NewDesignator=Q1
+Change Component Designator: OldDesignator=GND NewDesignator=J2
+Added Pin To Net: NetName=Netcontrol_L1_10 Pin=control_L1-10
+Added Pin To Net: NetName=Netcontrol_L1_10 Pin=R8-1
+Added Net: Name=Netcontrol_L1_10
+Added Pin To Net: NetName=Netcontrol_R1_10 Pin=control_R1-10
+Added Pin To Net: NetName=Netcontrol_R1_10 Pin=R13-1
+Added Net: Name=Netcontrol_R1_10
+Added Room: Name=remote control

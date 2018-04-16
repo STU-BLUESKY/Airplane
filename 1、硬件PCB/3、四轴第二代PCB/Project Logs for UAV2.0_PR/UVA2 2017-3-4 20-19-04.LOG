@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=NetD7_1 Pin=D7-1
+Removed Pin From Net: NetName=NetD7_1 Pin=D8-1
+Removed Pin From Net: NetName=NetD7_1 Pin=D10-1
+Removed Pin From Net: NetName=NetD11_1 Pin=D11-1
+Removed Pin From Net: NetName=NetD11_1 Pin=D13-1
+Removed Pin From Net: NetName=NetD11_1 Pin=D14-1
+Removed Pin From Net: NetName=NetD7_1 Pin=R20-2
+Removed Pin From Net: NetName=NetD11_1 Pin=R21-2
+Change Component Designator: OldDesignator=D7 NewDesignator=D10
+Change Component Designator: OldDesignator=D8 NewDesignator=D11
+Change Component Designator: OldDesignator=D9 NewDesignator=D8
+Change Component Designator: OldDesignator=D10 NewDesignator=D13
+Change Component Designator: OldDesignator=D11 NewDesignator=D9
+Change Component Designator: OldDesignator=D13 NewDesignator=D7
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R22 NewDesignator=R24
+Added Component: Designator=R19(R0805)
+Added Component: Designator=R22(R0805)
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD7_1 Pin=R19-1
+Added Pin To Net: NetName=BAT+ Pin=R19-2
+Added Pin To Net: NetName=BAT+ Pin=R22-1
+Added Pin To Net: NetName=NetD11_1 Pin=R22-2
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_1 Pin=D10-1
+Added Pin To Net: NetName=NetD9_1 Pin=R21-2
+Added Net: Name=NetD9_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=D14-1
+Added Pin To Net: NetName=NetD13_1 Pin=R23-2
+Added Net: Name=NetD13_1
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component R23 RES
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component R24 RES
+Added Room: Name=UAV2.0_DOC

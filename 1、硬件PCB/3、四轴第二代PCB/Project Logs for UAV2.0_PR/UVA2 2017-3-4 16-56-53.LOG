@@ -1,0 +1,42 @@
+Added Component: Designator=Q1(SI2302)
+Added Component: Designator=Q2(SI2302)
+Added Component: Designator=Q3(SI2302)
+Added Component: Designator=Q4(SI2302)
+Added Component: Designator=Q5(SI2302)
+Added Component: Designator=U2(SOT-23-5)
+Added Component: Designator=U4(2.4G_mini)
+Added Pin To Net: NetName=MOS_1 Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetD2_1 Pin=Q1-3
+Added Pin To Net: NetName=MOS_2 Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetD3_1 Pin=Q2-3
+Added Pin To Net: NetName=MOS_3 Pin=Q3-1
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetD4_1 Pin=Q3-3
+Added Pin To Net: NetName=MOS_4 Pin=Q4-1
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=NetD5_1 Pin=Q4-3
+Added Pin To Net: NetName=505LED Pin=Q5-1
+Added Pin To Net: NetName=GND Pin=Q5-2
+Added Pin To Net: NetName=NetD6_4 Pin=Q5-3
+Added Pin To Net: NetName=NetD1_1 Pin=U2-1
+Added Pin To Net: NetName=SGND Pin=U2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U2-3
+Added Pin To Net: NetName=NetC1_2 Pin=U2-4
+Added Pin To Net: NetName=NetC1_2 Pin=U2-5
+Added Pin To Net: NetName=+3.3V Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=2.4_CE Pin=U4-3
+Added Pin To Net: NetName=2.4_CSN Pin=U4-4
+Added Pin To Net: NetName=2.4_SCK Pin=U4-5
+Added Pin To Net: NetName=2.4_MOSI Pin=U4-6
+Added Pin To Net: NetName=2.4_MISO Pin=U4-7
+Added Pin To Net: NetName=2.4_IRQ Pin=U4-8
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component Q1 SI2302
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component Q2 SI2302
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component Q3 SI2302
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component Q4 SI2302
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component Q5 SI2302
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component U2 TPS6140
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component U4 2.4G

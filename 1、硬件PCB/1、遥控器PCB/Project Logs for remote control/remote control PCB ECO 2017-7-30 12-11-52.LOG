@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ADC THR Pin=U2-15
+Removed Pin From Net: NetName=KEY_LEFT Pin=U2-18
+Added Pin To Net: NetName=KEY_LEFT Pin=U2-15
+Added Pin To Net: NetName=ADC THR Pin=U2-18
+Added Member To Class: ClassName=remote control Member=Component U2 STM32F103C8T6
+Added Room: Name=remote control

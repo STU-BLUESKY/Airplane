@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=505LED Pin=U1-41
+Added Pin To Net: NetName=505LED Pin=U1-22
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component R19 RES
+Added Member To Class: ClassName=UAV2.0_DOC Member=Component R22 RES
+Added Room: Name=UAV2.0_DOC

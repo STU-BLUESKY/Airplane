@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J7 Old Footprint=PC_3 New Footprint=P3_2.54-1
+Added Pin To Net: NetName=GND Pin=J7-1
+Added Pin To Net: NetName=BAT+ Pin=J7-2
+Added Pin To Net: NetName=OUT_1 Pin=J7-3

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=JTCK Pin=J3-3
+Removed Pin From Net: NetName=JTMS Pin=J3-4
+Added Pin To Net: NetName=JTMS Pin=J3-3
+Added Pin To Net: NetName=JTCK Pin=J3-4
+Added Room: Name=remote control

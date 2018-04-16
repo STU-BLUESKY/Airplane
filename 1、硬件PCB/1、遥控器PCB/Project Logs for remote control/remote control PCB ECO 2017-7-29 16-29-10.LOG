@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=KEY3 Pin=U2-2
+Removed Pin From Net: NetName=KEY2 Pin=U2-3
+Removed Pin From Net: NetName=KEY1 Pin=U2-4
+Removed Pin From Net: NetName=KEY4 Pin=U2-11
+Added Pin To Net: NetName=KEY4 Pin=U2-2
+Added Pin To Net: NetName=KEY3 Pin=U2-3
+Added Pin To Net: NetName=KEY2 Pin=U2-4
+Added Pin To Net: NetName=KEY1 Pin=U2-11
+Added Room: Name=remote control

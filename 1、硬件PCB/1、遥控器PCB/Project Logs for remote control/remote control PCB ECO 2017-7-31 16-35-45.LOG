@@ -1,0 +1,4 @@
+Added Component: Designator=S1(KEY_DIP_12D07-4)
+Added Pin To Net: NetName=NetJ1_2 Pin=S1-1
+Added Pin To Net: NetName=BAT+ Pin=S1-3
+Added Member To Class: ClassName=remote control Member=Component S1 SW
